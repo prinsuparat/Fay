@@ -6,7 +6,7 @@
 
 # [Fay你太美](https://prinsuparat.github.io/Fay)
 
-Fay-Fay 舞蹈模拟器！
+Fay-Fay 舞蹈模拟器
 
 目前还有很多 bug，作为 iFay 的我还在努力修复中，今天也是为FayFay努力的一天呢！
 
