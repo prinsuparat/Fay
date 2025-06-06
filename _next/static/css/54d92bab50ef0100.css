@@ -17,6 +17,7 @@ body {
 
 @media (max-width: 768px) {
   html, body {
+    background-image: url('/background.png');
     background-size: 120% 120%;
     background-position: 40% center; /* 根据图片视觉中心调整 */
   }
